@@ -1,1 +1,2 @@
 # Standard-Form-Calculator
+A [standard form calculator](https://www.standardformcalculator.com/) is a mathematical tool that helps you perform mathematical functions when numbers are represented in scientific statements. Those with no background in math can use this tool to relieve stress. Enter the numbers in the correct order and select the action you want to perform. This quality tool provides accurate results. This is a simple option to write down the resolution and then get the answer.
